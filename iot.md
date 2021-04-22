@@ -9,4 +9,4 @@
 
 ### **Feedback:**
 - *Abel:*  
-- *Fer:*  
+- *Fer: fer: tal vez se podría profundizar un poco acerca de cómo es que transmiten la información o como se relacionan de mejor manera*  
