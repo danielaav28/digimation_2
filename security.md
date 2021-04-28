@@ -11,4 +11,4 @@
 | Assigned to | Feedback |
 | --- | -------- |
 | Abel |  |
-| Cris |  |
+| Cris | Mencionar ejemplos de cómo aplicar la seguridad informática en mi día a día. |
