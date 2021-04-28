@@ -9,4 +9,4 @@
 
 **Feedback:** Fer: TBD
 
-**Feedback:** Dani: TBD
+**Feedback:** Dani: Por qué es importante aprender sobre data science, etc? Mencionar un poco sobre el poder de los datos en cualquier negocio.
